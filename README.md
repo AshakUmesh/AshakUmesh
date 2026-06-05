@@ -33,13 +33,7 @@ Django, MERN stack, REST APIs, and frontend projects from scratch.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
----
 
-### GitHub Stats
-
-![Ashak's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshakUmesh&show_icons=true&hide_border=true&theme=default)
-
----
 
 ### Find me
 
