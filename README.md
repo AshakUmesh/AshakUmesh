@@ -1,43 +1,72 @@
-## Hi, I'm Ashak Umesh 👋
+# GitHub Profile README — Ashak Umesh
 
-Researcher and developer working across **machine learning, autonomous systems,
-and full-stack web development**. I build things that sit at the boundary of
-research and engineering — from training pipelines to production web apps.
-
----
-
-### What I work on
-
-🤖 **Agentic AI & Reinforcement Learning**
-Human-in-the-Loop TD3 training for autonomous vehicles in CARLA —
-real-time human override shapes agent learning mid-episode.
-
-🎭 **Applied Deep Learning**
-Deepfake video detection using ResNeXt + LSTM, deployed via a Django web app.
-
-🔀 **LLM Infrastructure**
-OpenRouter-style unified API gateway routing across multiple AI providers.
-
-🌐 **Full-Stack Web Development**
-Django, MERN stack, REST APIs, and frontend projects from scratch.
+> **How to install:**
+> 1. Create a new public repo named exactly `AshakUmesh` (must match your username)
+> 2. Initialize with a README.md
+> 3. Copy everything below the divider into that README.md
+> 4. Commit — GitHub auto-displays it on your profile
 
 ---
 
-### Tech
+## 👋 Hi, I'm Ashak
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+**M.Tech (Information Security)** at NIT Calicut, expected 2027.
+I work on **real-time network security and ML for automotive systems** — specifically detection and mitigation of protocol-compliant attacks on Time-Sensitive Networking.
 
+---
 
+### 🔬 Current focus
 
-### Find me
+Cross-plane adaptive defence for Time-Sensitive Networking (TSN) in Automotive Ethernet.
+Building a closed-loop system that detects protocol-compliant DoS attacks against IEEE 802.1Qci PSFP and adaptively reconfigures network policies in response.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashak_Umesh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashak-umesh-1b19ba1b6/)
-[![Twitter](https://img.shields.io/badge/Twitter-@AshakUmesh1-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AshakUmesh1)
+- **Detection:** 100% TPR, FPR 1.7%, ROC-AUC 0.998 (data-plane, held-out)
+- **Mitigation:** 39–50% attack traffic reduction, ~+22% legitimate traffic recovery
+- **Repo:** [cross-plane-adaptive-tsn-dos-defense](https://github.com/AshakUmesh/cross-plane-adaptive-tsn-dos-defense)
 
-![Profile views](https://komarev.com/ghpvc/?username=AshakUmesh&color=grey&style=flat)
+---
+
+### 🛠 Selected projects
+
+**[Cross-Plane Adaptive TSN DoS Defence](https://github.com/AshakUmesh/cross-plane-adaptive-tsn-dos-defense)** — M.Tech thesis
+11 protocol-compliant attacks on IEEE 802.1Qci PSFP + a cross-plane ML detector + adaptive policy engine + offline RL agent, all in OMNeT++/INET.
+`C++` `Python` `PyTorch` `OMNeT++` `INET`
+
+**[Deepfake Detection](https://github.com/AshakUmesh/Deepfake-Detection-)**
+Video-based deepfake detection using ResNeXt for spatial features + LSTM for temporal modelling. 94% accuracy on benchmark datasets. Deployed via Django.
+`Python` `PyTorch` `OpenCV` `Django`
+
+**RAG Document Search** *(coming soon)*
+Retrieval-Augmented Generation pipeline using MiniLM sentence embeddings + FAISS vector index. REST APIs for document ingestion and semantic retrieval.
+`Python` `FAISS` `Sentence Transformers` `REST APIs`
+
+**[OnlineQuiz](https://github.com/AshakUmesh/OnlineQuiz)**
+Full-stack Django web app for quiz creation, authentication, and automated result processing. Relational MySQL schema, JavaScript frontend.
+`Django` `MySQL` `JavaScript`
+
+---
+
+### 🧰 Core stack
+
+**Languages:** Python · C++ · C · Java · SQL
+**ML:** PyTorch · Deep Learning · Reinforcement Learning · FAISS
+**Systems:** Linux · OMNeT++ · INET · Wireshark · TCP/IP · IEEE 802.1AS/TSN
+**Backend:** Django · Flask · REST APIs · MySQL
+
+---
+
+### 📚 Background
+
+- **M.Tech CSE (Information Security)** — NIT Calicut, 2025–2027 (CGPA 7.85)
+- **B.Tech CSE** — College of Engineering Thrikkaripur (KTU), 2020–2024 (CGPA 9.0)
+- **Cybersecurity Intern** — TechByHeart, Bengaluru (2023)
+
+---
+
+### 📫 Reach me
+
+- **Email:** ashakumesh2020@gmail.com
+- **LinkedIn:** [in/ashakumesh](https://linkedin.com/in/ashakumesh)  *(update once you fix the custom URL)*
+- **Location:** Kannur, Kerala, India
+
+*Open to Security Engineer, ML Engineer, and SDE roles — internships and full-time — for 2026-27.*
